@@ -1,1 +1,23 @@
-/* styles go here */
+.form-field {
+  display: block;
+  margin: 0 0 10px;
+}
+
+.info {
+  margin: 0 0 20px;
+  padding: 0 10px;
+  border: 1px solid;
+}
+
+.text-info {
+  margin: 0;
+  padding: 0 4px;
+  background: white;
+  position: relative;
+  top: -0.7em;
+  left: -0.4em;
+}
+
+.example-text {
+  color: gray;
+}
